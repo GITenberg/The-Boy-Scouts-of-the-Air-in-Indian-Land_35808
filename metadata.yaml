@@ -1,0 +1,34 @@
+_repo: The-Boy-Scouts-of-the-Air-in-Indian-Land_35808
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hall, N. P.
+    alias: Hall, Norman P.
+    gutenberg_agent_id: '41795'
+    url: http://www.gutenberg.org/2009/agents/41795
+covers:
+- cover_type: archival
+  image_path: 35808-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stuart, Gordon (Adventure story writer)
+    gutenberg_agent_id: '2211'
+    url: http://www.gutenberg.org/2009/agents/2211
+    wikipedia: http://www.gutenberg.org/ebooks/author/2246
+description: ''
+gutenberg_issued: '2011-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+title: The Boy Scouts of the Air in Indian Land
+url: http://www.gutenberg.org/ebooks/35808
