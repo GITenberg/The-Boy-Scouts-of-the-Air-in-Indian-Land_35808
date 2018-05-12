@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2211
     wikipedia: http://www.gutenberg.org/ebooks/author/2246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35808#The-Boy-Scouts-of-the-Air-in-Indian-Land
 gutenberg_issued: '2011-04-09'
 gutenberg_type: Text
 identifiers:
